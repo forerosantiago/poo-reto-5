@@ -13,7 +13,7 @@ Example:
 
 """
 
-from Shape.shapes import Rectangle, Square, Circle
+from Shape.__main__ import Rectangle, Square, Circle
 
 
 rect = Rectangle(2, 3)
