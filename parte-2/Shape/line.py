@@ -1,6 +1,6 @@
 """Module defining the Line class"""
 
-from point import Point
+from .point import Point
 
 
 class Line:

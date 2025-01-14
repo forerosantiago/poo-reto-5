@@ -1,6 +1,6 @@
 """A module for the Triangle class"""
 
-from shape import Shape
+from Shape.shape import Shape
 
 
 class Triangle(Shape):

@@ -2,7 +2,7 @@
 
 import math
 
-from shape import Shape
+from Shape.shape import Shape
 
 
 class Circle(Shape):

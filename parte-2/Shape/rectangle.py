@@ -1,6 +1,6 @@
 """Rectangle class"""
 
-from shape import Shape
+from Shape.shape import Shape
 
 
 class Rectangle(Shape):

@@ -1,6 +1,6 @@
 """This module defines the Square class"""
 
-from rectangle import Rectangle
+from Shape.rectangle import Rectangle
 
 
 class Square(Rectangle):
